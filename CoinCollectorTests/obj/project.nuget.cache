@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmVqIVLJbEuhQ0kRlUKeLAcsrj6gl0zrotzfkzWI0D2SyUQ2maHKVjLQWs8/axdobp/zRgQkhM2NGs0238HVdQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitProjects\\FORK-CoinCollector\\EXAMPLES-NewInputSystem--CoinCollector-CSharp\\CoinCollectorTests\\CoinCollectorTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\alttester-driver\\1.8.0\\alttester-driver.1.8.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.3.2\\microsoft.testplatform.objectmodel.17.3.2.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.3.2\\microsoft.testplatform.testhost.17.3.2.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\nlog\\4.7.9\\nlog.4.7.9.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\nunit.analyzers\\3.5.0\\nunit.analyzers.3.5.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\nunit3testadapter\\4.3.0\\nunit3testadapter.4.3.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\alexandra.vescan\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebSocketSharp 1.0.3-rc11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
